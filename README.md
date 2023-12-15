@@ -1,1 +1,3 @@
 # -Dashboard-for-Road-Safety-Trends
+
+The database I've engaged with is a comprehensive repository of road accident records within New York City. It encompasses incident data reported to the New York City Police Department starting from July 2012, continuously updated to the present day. This visualization initiative aims to delve into the nuanced trends and patterns inherent in New York's road accidents, going beyond the surface of raw data. Its objective is to unearth hidden patterns, spotlight high-risk zones, and pinpoint the primary contributing factors behind these incidents for a more profound understanding of road safety dynamics in the city.
